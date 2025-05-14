@@ -5,7 +5,7 @@
 
 
 ## 📐 ERD (Entity-Relationship Diagram)
-the erd diagram inside an pdf document called, erd.pdf
+the erd diagram inside an pdf document called, Ecommece erd.pdf
 
 ## 🗃️ Tables Overview
 
