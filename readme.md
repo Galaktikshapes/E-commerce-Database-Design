@@ -5,7 +5,7 @@
 
 
 ## 📐 ERD (Entity-Relationship Diagram)
-> [Insert ERD Screenshot or link to dbdiagram.io]
+the erd diagram inside an pdf document called, erd.pdf
 
 ## 🗃️ Tables Overview
 
